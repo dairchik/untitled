@@ -1,0 +1,34 @@
+@media screen and (max-width: 830px){
+    .job__tags--item{
+        margin-top: 20px;
+    } 
+    .job__item{
+        max-width: 300px;
+        margin-right: auto;
+        margin-left: auto;
+
+    } 
+}
+@media screen and (max-width: 768px){
+    .job__item{
+        position: relative;
+        padding-top: 50px;
+        padding-left: 50px;
+    }
+    .job__photo{
+        position: absolute;
+        top: -45px;
+        left: -20px;
+    }  
+    .job__item{
+        margin-bottom: 50px;
+    } 
+}
+@media screen and (max-width: 320px){
+    .flex{
+        display: block;
+    }
+    .job__name{
+        margin-bottom: 10px 0;
+    }
+}

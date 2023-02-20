@@ -1,0 +1,22 @@
+body {
+    background: #EBAFAF;
+    font-family: "Roboto";
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+body,
+ul {
+    margin: 0;
+}
+button{
+    border: none;
+}
